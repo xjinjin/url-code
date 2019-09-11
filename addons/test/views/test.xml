@@ -1,0 +1,13 @@
+<odoo>
+        <record model="test.test" id="url_code0">
+            <field name="name">test</field>
+            <field name="url">https://cn.bing.com</field>
+            <field name="code">print("Hello World!")</field>
+        </record>
+        <record model="test.test" id="url_code1">
+            <field name="name">test1</field>
+            <field name="url">https://www.baidu.com</field>
+            <field name="code">print("Hello china!")</field>
+        </record>
+
+</odoo>
